@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm working with</p>
+<h3 align="left">I'm working with</h3>
 
 ###
 
